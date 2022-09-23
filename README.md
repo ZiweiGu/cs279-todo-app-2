@@ -1,4 +1,4 @@
-# cs279-todo-app-2
+# cs279-todo-app-node
 
 A Todo app built with Node.js and MongoDB. To run the app, first make sure Node.js is installed (Download link [here](https://nodejs.org/en/download/)). Next, run the following code to install Express, mongoose, ejs and dotenv.
 ```
